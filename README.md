@@ -15,6 +15,7 @@
 
 ## Pygame
 1. [Snake](https://github.com/pravinks94/Pygame/blob/master/Snake%20Game/snakegame.py) 🐍
+2. [Pong Game](https://github.com/pravinks94/pong_game) 🏓
 
 <!--
 **pravinks94/pravinks94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
